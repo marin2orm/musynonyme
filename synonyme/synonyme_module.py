@@ -17,5 +17,5 @@ def synonyme(mot):
                 return premier_mot
             else:
                 print("Pas de synonyme trouvé")
-                return ""  # Renvoyez une chaîne vide si aucun synonyme n'est trouvé
-    return ""  # Renvoyez une chaîne vide si la requête n'est pas OK
+                return "" 
+    return "" 
