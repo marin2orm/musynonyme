@@ -6,9 +6,8 @@ Ce programme est conçu pour prendre en entrée des paroles de chanson et les tr
 
 1. Assurez-vous d'avoir Python installé. Si ce n'est pas le cas, vous pouvez le télécharger sur [le site officiel de Python](https://www.python.org/downloads/).
 2. Installez les bibliothèques nécessaires en exécutant la commande suivante :
-
-pip install requests
-pip install beautifulsoup4
+  - pip install requests
+  - pip install beautifulsoup4
 
 3. Exécutez le programme `main.py`.
 
